@@ -1,6 +1,5 @@
 const HID = require('node-hid');
 
-// Replace with your device's vendorId and productId
 const vendorId = 5013; // Sennheiser's vendorId
 const productId = 116; // Sennheiser UI 20 BL productId
 
